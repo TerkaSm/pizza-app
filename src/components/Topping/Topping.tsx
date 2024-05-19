@@ -1,5 +1,5 @@
 import React from 'react';
-import Check from '../Check';
+import Check from '../Check/Check';
 import ITopping from '../../models/Topping';
 import './style.css';
 

@@ -8,6 +8,12 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
+body {
+  color: #E9E9AF;
+  font-weight: 500;
+  background-color: black;
+}
+
 .container {
   max-width: 38rem;
   margin-right: auto;

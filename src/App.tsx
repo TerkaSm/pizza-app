@@ -1,4 +1,4 @@
-import ToppingsSelect from './components/ToppingsSelect';
+import ToppingsSelect from './components/ToppingsSelect/ToppingSelect';
 import ITopping from './models/Topping';
 import './style.css';
 
